@@ -1,3 +1,3 @@
 # CICD Pipeline
 
-[CICD Pipeline](../diagrams/CICD_Pipeline.png)
+![CICD Pipeline](../diagrams/CICD_Pipeline.png)
