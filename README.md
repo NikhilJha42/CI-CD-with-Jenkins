@@ -2,6 +2,6 @@
 
 ## Changed this sentence to test webhook again.
 
-### Testing merge job on Jenkins.
+### Changed another sentence to test whether successful tests trigger a merge.
 
 #### Testing whether testing on Jenkins triggers merge from Jenkins.
