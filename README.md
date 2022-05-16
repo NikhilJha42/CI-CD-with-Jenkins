@@ -2,8 +2,6 @@
 
 ## Changed this sentence to test webhook again.
 
-### Changed another sentence to test whether successful tests trigger a merge. Second try.
-
-### Removed post-build action for merge on testing.
+### Changed another sentence to test whether successful tests trigger a merge. Second try. Third attempt.
 
 #### Testing whether testing on Jenkins triggers merge from Jenkins.
