@@ -4,4 +4,4 @@
 
 ### Changed another sentence to test whether successful tests trigger a merge. Second try. Third attempt.
 
-#### Testing whether testing on Jenkins triggers merge from Jenkins.
+#### Testing if successful merge triggers deployment into AWS EC2 instance.
