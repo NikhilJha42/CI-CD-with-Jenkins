@@ -3,5 +3,3 @@
 [Jenkins CICD Documentation](./documentation/CICD_Pipeline.md)
 
 [App code](./app_code/)
-
-# Testing
