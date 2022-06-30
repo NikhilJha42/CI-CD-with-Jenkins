@@ -1,6 +1,15 @@
 # CICD Pipeline
 
-![CICD Pipeline](../diagrams/CICD_Pipeline.png)
+Before starting this documentation, create a Jenkins server as shown in the [Jenkins Set-up Documentation](../documentation/Creating_Jenkins_Server.md).
+
+# Overview of CICD Pipeline
+
+![CICD Pipeline Overview](../diagrams/CICD_Pipeline_Overview.png)
+
+# Building the Pipeline
+![CICD Pipeline](../diagrams/Jenkins_CICD_Pipeline.png)
+
+# Deploying the app
 
 ![Automating merge and delivery in Jenkins](../diagrams/Automating_merges_and_delivery.png)
 
