@@ -1,4 +1,4 @@
-# eng110_CICD_with_jenkins
+# CI/CD with Jenkins
 
 ![Overview of CICD Pipeline](./diagrams/CICD_Pipeline_Overview.png)
 
