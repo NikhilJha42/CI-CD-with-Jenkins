@@ -49,8 +49,7 @@ Now we will create the agent node.
 - You should have now successfully configured an agent node! When creating a new build, select `Restrict where this build can be run` and search for agent1.
 - To test, you make a project that executes the shell script `uname -a`.
 
-(This part may be unneccessary - further research is needed):
-First we instruct Jenkins on how to access AWS.
+Then we instruct Jenkins on how to access AWS.
 - On the Jenkins interface, navigate to **Mangange Jenkins** > __Manage Plugins.__
 - Switch to the `Available` tab, and search for Amazon EC2, select and then install the plug-in without restart.
 - Return to the dashboard, and select __Configure a cloud__.
